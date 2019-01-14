@@ -1,3 +1,3 @@
 # git
 GIT project
-odoo 11
+odoo 12
